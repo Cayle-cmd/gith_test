@@ -1,0 +1,21 @@
+H1{
+  background-color: gold;
+  color: #FFFFFF;
+  cursor: pointer;
+  transition: red 2s ;
+  transition-property: all;
+  transition-duration: 5s;
+  box-shadow : 5px 10px 0.5em 0.5em red;
+  box-shadow : inset 5px 5px 0 0 red;
+  box-shadow : inset 5px 5px 0 0 red, 5px 5px 0 0 green;
+  text-align: center;
+}
+
+H1:hover{
+  background-color: black;
+  color:white;
+}
+
+body{
+  background-color: #cf6a87;
+}
