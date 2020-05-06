@@ -11,11 +11,11 @@ H1{
   text-align: center;
 }
 
-H1:hover{
+H1:hover{²
   background-color: black;
   color:white;
 }
 
 body{
-  background-color: #cf6a87;
+  background-color: #ffda79;
 }
